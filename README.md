@@ -8,7 +8,7 @@ A React-based interactive map application that allows users to upload and previe
 - Leaflet
 - Javascript
 
-📦 Installation
+## 📦 Installation
 
 1. Clone the repository:
 ```bash

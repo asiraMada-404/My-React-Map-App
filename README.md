@@ -4,7 +4,7 @@ A React-based interactive map application that allows users to upload and previe
 
 ## 🧰 Technologies Used
 
-- React
+- ReactJS
 - Leaflet
 - Javascript
 
